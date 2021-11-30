@@ -4,3 +4,4 @@ We talked about the steps that we could possibly take to deploy a website. I wan
 
 <!-- Answer Down Here -->
 
+I would use Heroku for our website. It seems to be the best option monetarily. We wouldn't need to pay for a domain name, and to serve it is free as well. I am willing to take the trade off of having "Heroku" in the name of the link, and it not being up all the time. However if I was to deploy a portfolio website I would probably still stick with Heroku. Depending if my website is static or not I would start with the free version and possibly upgrade to the $7/month version if needed. The main reason I chose Heroku is because of the free domain.
